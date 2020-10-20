@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: lb_si_AIEngine_v1
+    environment_json: {}
+    memory: 256M
+    instances: 1
+    disk_quota: 1024M
+    services: []
